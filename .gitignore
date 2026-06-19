@@ -1,0 +1,15 @@
+# MicroPython compiled bytecode
+*.mpy
+
+# Thonny IDE
+.thonny/
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Python (if running any PC-side scripts)
+__pycache__/
+*.py[cod]
+.env
